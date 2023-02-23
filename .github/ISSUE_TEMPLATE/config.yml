@@ -6,6 +6,14 @@ contact_links:
   - name: Report incorrect or missing information on our website
     url: https://github.com/home-assistant/home-assistant.io/issues
     about: Our documentation has its own issue tracker. Please report issues with the website there.
+  - name: I haalse
+contact_links:
+  - name: Report a bug with the UI, Frontend or Lovelace
+    url: https://github.com/home-assistant/frontend/issues
+    about: This is the issue tracker for our backend. Please report issues with the UI in the frontend repository.
+  - name: Report incorrect or missing information on our website
+    url: https://github.com/home-assistant/home-assistant.io/issues
+    about: Our documentation has its own issue tracker. Please report issues with the website there.
   - name: I have a question or need support
     url: https://www.home-assistant.io/help
     about: We use GitHub for tracking bugs, check our website for resources on getting help.
